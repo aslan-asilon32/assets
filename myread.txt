@@ -1,0 +1,5 @@
+https://lemoncode21.medium.com/build-a-restful-crud-api-with-golang-gin-and-gorm-e1e976ef5b9f
+
+https://medium.com/@ramadhansalmanalfarisi8/create-a-simple-crud-api-with-go-gin-postgresql-fbbef32b7423
+
+https://medium.com/@ramadhansalmanalfarisi8/create-a-simple-crud-api-with-go-gin-postgresql-fbbef32b7423
